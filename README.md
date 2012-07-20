@@ -1,7 +1,16 @@
 shiftplan-copywriting
 =====================
 
-SHIFTPLAN!
+SHIFTPLAN: A LIGHTWEIGHT, SIMPLE, MINIMAL, SEAMLESS, OUT-OF-THE-BOX (OR NO BOX!), PLUG-AND-PLAY (OR EVEN NO PLUG), SHIFT PLANNING TOOL TO SUIT ALL YOUR FLEXIBILITY NEEDS.
+
+Buzzwords: adapt, adjust, agile, flexible, time, time wastage, frugality, informality, power to the people (ref: http://arttattler.com/Images/NorthAmerica/Canada/Montreal/Montreal%20Museum%20of%20Fine%20Arts/Imagine/image_22.jpg), seamless (API), crisis management, reusable (templates), obstacle-removing, communication facilitator/enhancer, compatible (win, ubuntu, mac, mobiles, tablets). 
+
+Things to do:
+- establish formality level,
+- learn technologies used,
+- cooperate with designer more,
+- see the solutions,
+- check the devices - mobile or not.
 
 ## 1. Why am I writing?
 
