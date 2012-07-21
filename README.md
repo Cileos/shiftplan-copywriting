@@ -1,4 +1,4 @@
-shiftplan-copywriting
+SHIFTPLAN MANIFESTO
 =====================
 
 SHIFTPLAN: A LIGHTWEIGHT, SIMPLE, MINIMAL, SEAMLESS, OUT-OF-THE-BOX (OR NO BOX!), PLUG-AND-PLAY (OR EVEN NO PLUG), SHIFT PLANNING TOOL TO SUIT ALL YOUR FLEXIBILITY NEEDS.
@@ -39,13 +39,16 @@ Things to do:
 ###Enhances communication via the Central Notification Hub
 ###It substitutes flexible work time with internal, employee-employee shift barter
 ###A digital crisis manager in times of need - replaces workforce missing because of a disaster with some from other organization branches.
+###Buddy clocking issue.
 
 ##7. How can I prove its benefits?
 
 ###A trial is a must.
 ###Free, v. small plan? (like personal in kanbanery?)
 ###Possible use scenarios (stories)
-
+###Short, professional video. Screencasts later on.
+###Professional support system working from the very start.
+###  
 
 ##8. Who am I writing to? II
 
@@ -60,4 +63,5 @@ Things to do:
 ###b) What are they afraid of?
 - the very start-up itself; such businesses are known to rise and fall,
 - over-complication of the whole app (esp. non-technical people),
-- the possibility of losing hold over employees work (we can counter this by emphasising the tracking and notification system)
+- the possibility of losing hold over employees work (we can counter this by emphasising the tracking and notification system),
+
