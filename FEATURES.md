@@ -19,11 +19,8 @@ ShiftPlan Features - needs to be customized to comply with the inverted pyramid
 
 Fritzek's mail
 =============
-
-
-- list of main features:
-        - Templates (organize your business in schedules and reuse them as templates)
-        - Tracking availability (internal workers are available by default, external are not available by default - keep track of the actual status of your workers)
-        - Central Notification Hub (most systems send notifications via email, shiftplan uses a lot more notification channels - SMS, social network pings, twitter direct messages; apart from this the hub will be able to handle incoming traffic and asign the messages to the right system component)
-        - Shift Trading (system helps to handle shift trades to give your employees a maximum of flexibility and minimal response time
-        - desaster driven planning (e.g. an epidemic desaster takes precedence over all standard plans and will take over resources from other organizations plans within the same account)
+* Give the names more thought.
+*  Templates (organize your business in schedules and reuse them as templates)  re templates - we should point out that we shorten the time of doing the plans because the user can prepare plan skeletons with templates
+* Tracking availability (internal workers are available by default, external are not available by default - keep track of the actual status of your workers)*Central Notification Hub (most systems send notifications via email, shiftplan uses a lot more notification channels - SMS, social network pings, twitter direct messages; apart from this the hub will be able to handle incoming traffic and asign the messages to the right system component)
+* Shift Trading (system helps to handle shift trades to give your employees a maximum of flexibility and minimal response time
+* desaster driven planning (e.g. an epidemic desaster takes precedence over all standard plans and will take over resources from other organizations plans within the same account)
