@@ -1,3 +1,5 @@
+(i.e. different ways of using our app)
+
 ## SAVE TIME FOR PRESSING MATTERS
 
 Stop reinventing the wheel. Keep your schedules and recycle them whenever you like. 
