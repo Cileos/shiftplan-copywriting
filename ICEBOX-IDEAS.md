@@ -1,11 +1,15 @@
 LOOSE THOUGHTS & THREADS
 
-================
-
 * comic - http://www.facebook.com/media/set/?set=a.117693214934401.7710.100000811701242&type=1 - page with some sketches
 * video - NOT like path, a voice that is "ours": someone who emits confidence yet doesn't brag about it. A polite professional always always willing to lend a hand.
 * persona - a typical client/user of our app 
 * shiftplan as a swiss knife, sheriff's deputy - CONFIDENT, DEPENDABLE & READY TO ACT. 
+
+NEW:
+
+* idea for the about us page - why not add a bit of human element to the whole and show this volatile mixture of Niklas (the wonky computer nerd) and Fritz (steady, calm matter-of-fact man) that provides superb results? Just let not get overexcited about this. We need to retain our integrity, or, how mailchip says it: When speaking about serious business, the humour goes out through the window.
+* need to think about the connection between about us and blog page. Maybe link all the pages! with about us/blog/social media? need to create some kind of web, system out of this.
+
 
 really first rough draft:
 
