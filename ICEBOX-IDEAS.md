@@ -21,8 +21,9 @@ really first rough draft:
 ### origin of clockwork
 * while helping a friend who is a hotel manager to find a good workforce management and a deeper research with him we haven’t found no good and useful service
 * but there must be a lot around? yes, but none really fitted to the “special” needs like handling external resources and a few other requirements 
-* on the way to specify a possible solution and the talks we had with other we’ve found out that its not special need for the gastronomical business - it’s for all whoever has to handle external with internal resources or wants to plan recurring and event based plans or needs proactive communication in emerging cases                                                                                                                                                    * so we refocussed on to be not focussed to a special business but to the clients who needs flexible, communicative and intuitive service which really helps
+* on the way to specify a possible solution and the talks we had with other we’ve found out that its not special need for the gastronomical business 
+* it’s for all whoever has to handle external with internal resources or wants to plan recurring and event based plans or needs proactive communication in emerging cases                                                                                                                                                    * so we refocussed on to be not focussed to a special business but to the clients who needs flexible, communicative and intuitive service which really helps
+                                                                                                                                                                                                                                                                                                                             
 ### mission/idea
-* we want to rule the world - of workforce management
 
-        -
+* we want to rule the world - of workforce management
