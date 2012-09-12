@@ -4,13 +4,13 @@
 
 Stop reinventing the wheel. Keep your schedules and recycle them whenever you like. 
 
-## PEOPLE CAN DO IT 
+## WE CAN DO IT 
 
-Don't bother with shift changes. Your workers will manage themselves, just give the green light.
+Don't bother with shift changes. Your workers will manage themselves. (-)
 
 ## KNOW WHAT'S GOING ON 
 
-Everything's under control, but in case you want to keep an eye on the work, it's there.
+Everything's under control, but if you want to keep an eye on the work, feel free. We have the tools.
 
 ## LET IT FLOW
 
@@ -18,19 +18,27 @@ If the unexpected happens, don't worry. Clockwork checks who's free and shifts t
 
 ## BE FLEXIBLE
 
-Clockwork lets you manage time so you have more of it. Want to pick your child or go fishing? No problem - just check if someone's got a spare day!
+Clockwork lets you manage time so you can do more. Want to pick your child or go fishing? No problem - just check if someone's got a spare day!
 
 ## SAVE EVERY TIME
 
-Want to start that project you didn't manage to find funding for? Clockwork spares your time, effort and money - your workers don't need your or the HR time. 
+Want to start a new project? Clockwork spares your time, effort and money - your workers won't need your time. 
 
 ## START RIGHT AWAY
 
-Clockwork starts ticking right away. No trainings and tutorials are needed, but we have lots of just in case! 
+No trainings or tutorials needed - introduce Clockwork painlessly / Clockwork is painless to introduce and use.
 
 ## CHECK YOUR STRENGTH
 
-You want to do something but don't know if the company'll manage? Clockwork will tell you about free workers and allow you to be constantly ready for action!
+Need a hand? Clockwork shows you which people are available. Always ready for action!
+
+## NEED GUIDANCE?
+
+Wizards, tutorials, screencast and more - everything to get you started is here. We're always happy to help!
+
+
+
+
 
 
 
