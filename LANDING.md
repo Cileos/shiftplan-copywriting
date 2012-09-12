@@ -3,6 +3,7 @@
 ## SAVE TIME FOR PRESSING MATTERS
 
 Stop reinventing the wheel. Keep your schedules and recycle them whenever you like. 
+(FT - I would use the word "reuse" instead of "recycle" - in Germany for the most people its a synonym for "throwing away")
 
 ## WE CAN DO IT 
 
@@ -27,6 +28,7 @@ Want to start a new project? Clockwork spares your time, effort and money - your
 ## START RIGHT AWAY
 
 No trainings or tutorials needed - introduce Clockwork painlessly / Clockwork is painless to introduce and use.
+(FT - how about "intutive"? e.g."Clockwork is painless and intuitive to use")
 
 ## CHECK YOUR STRENGTH
 
