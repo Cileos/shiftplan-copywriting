@@ -7,4 +7,4 @@
 20% off on all annual plans!
 
 
-We've got special offers for bigger clients. Let's chat!
+We've got special offers for bigger clients. Let's have a chat!
