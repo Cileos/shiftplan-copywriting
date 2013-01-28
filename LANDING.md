@@ -4,7 +4,7 @@ Stop reinventing the wheel. Keep your schedules, reuse them anytime and focus on
 
 ## WE CAN DO IT 
 
-Your people will organize themselves, saving you time and bother. Everything's in the shifts, just release the power. 
+Your people will organize themselves, saving you time and bother. Just let them!  
 
 ## KNOW WHAT'S GOING ON 
 
@@ -12,7 +12,7 @@ Everything's under control, but if you want to keep an eye on the work, feel fre
 
 ## LET IT FLOW
 
-If the unexpected happens, don't worry. Clockwork makes sure everything runs smoothly - it checks who's free and moves them where needed. You just get the notice. 
+If the unexpected happens, don't worry. Clockwork makes sure everything runs smoothly - it checks who's free and moves them where needed. With your consent, of course.
 
 ## BE FLEXIBLE
 
@@ -24,7 +24,7 @@ Want to start a new project? Clockwork takes care of your means so you can do so
 
 ## START RIGHT AWAY
 
-No trainings or tutorials needed - Clockwork is painless and intuitive to use. It starts working when you do.
+Clockwork is painless and intuitive to use. It starts working when you do and goes on after you finish. 
 
 ## CHECK YOUR STRENGTH
 
