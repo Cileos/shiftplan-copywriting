@@ -21,6 +21,9 @@ ShiftTrader lets workers swap work time without taking yours. You want efficienc
 ### In case of fire don't break anything.  
 Crisis Handling module makes sure the work flows. It handles crises easily, searching for replacements in other shift schedules. You can't predict everything, but don't worry - moving workers won't be your concern anymore. 
 
+## Unlimited possibilites
+### unlimited number of units - be it departments, projects, groups, locations, 
+
 # Ready to start planning? 
 ## Start your free trial!
 ### No credit card required.
